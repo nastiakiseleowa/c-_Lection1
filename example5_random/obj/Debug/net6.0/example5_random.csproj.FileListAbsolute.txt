@@ -1,0 +1,15 @@
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.csproj.AssemblyReference.cache
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.AssemblyInfoInputs.cache
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.AssemblyInfo.cs
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.csproj.CoreCompileInputs.cache
+C:\Users\kisel\Desktop\c#lection\example5_random\bin\Debug\net6.0\example5_random.exe
+C:\Users\kisel\Desktop\c#lection\example5_random\bin\Debug\net6.0\example5_random.deps.json
+C:\Users\kisel\Desktop\c#lection\example5_random\bin\Debug\net6.0\example5_random.runtimeconfig.json
+C:\Users\kisel\Desktop\c#lection\example5_random\bin\Debug\net6.0\example5_random.dll
+C:\Users\kisel\Desktop\c#lection\example5_random\bin\Debug\net6.0\example5_random.pdb
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.dll
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\refint\example5_random.dll
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.pdb
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\example5_random.genruntimeconfig.cache
+C:\Users\kisel\Desktop\c#lection\example5_random\obj\Debug\net6.0\ref\example5_random.dll
