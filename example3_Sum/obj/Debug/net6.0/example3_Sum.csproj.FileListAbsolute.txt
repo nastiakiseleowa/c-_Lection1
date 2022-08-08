@@ -1,0 +1,15 @@
+C:\Users\kisel\Desktop\c#lection\example3_Sum\bin\Debug\net6.0\example3_Sum.exe
+C:\Users\kisel\Desktop\c#lection\example3_Sum\bin\Debug\net6.0\example3_Sum.deps.json
+C:\Users\kisel\Desktop\c#lection\example3_Sum\bin\Debug\net6.0\example3_Sum.runtimeconfig.json
+C:\Users\kisel\Desktop\c#lection\example3_Sum\bin\Debug\net6.0\example3_Sum.dll
+C:\Users\kisel\Desktop\c#lection\example3_Sum\bin\Debug\net6.0\example3_Sum.pdb
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.csproj.AssemblyReference.cache
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.AssemblyInfoInputs.cache
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.AssemblyInfo.cs
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.csproj.CoreCompileInputs.cache
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.dll
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\refint\example3_Sum.dll
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.pdb
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\example3_Sum.genruntimeconfig.cache
+C:\Users\kisel\Desktop\c#lection\example3_Sum\obj\Debug\net6.0\ref\example3_Sum.dll
