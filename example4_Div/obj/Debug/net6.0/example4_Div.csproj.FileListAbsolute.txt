@@ -1,0 +1,15 @@
+C:\Users\kisel\Desktop\c#lection\example4_Div\bin\Debug\net6.0\example4_Div.exe
+C:\Users\kisel\Desktop\c#lection\example4_Div\bin\Debug\net6.0\example4_Div.deps.json
+C:\Users\kisel\Desktop\c#lection\example4_Div\bin\Debug\net6.0\example4_Div.runtimeconfig.json
+C:\Users\kisel\Desktop\c#lection\example4_Div\bin\Debug\net6.0\example4_Div.dll
+C:\Users\kisel\Desktop\c#lection\example4_Div\bin\Debug\net6.0\example4_Div.pdb
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.csproj.AssemblyReference.cache
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.AssemblyInfoInputs.cache
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.AssemblyInfo.cs
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.csproj.CoreCompileInputs.cache
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.dll
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\refint\example4_Div.dll
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.pdb
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\example4_Div.genruntimeconfig.cache
+C:\Users\kisel\Desktop\c#lection\example4_Div\obj\Debug\net6.0\ref\example4_Div.dll
